@@ -1,0 +1,17 @@
+Time on a pair of rotating scales.
+
+Vernier brings the feel of a measuring instrument to your wrist. Read the hour and minute scales beneath the fixed top indices. The hour wheel advances at each hour; the minute wheel turns with the seconds.
+
+An optional outer alignment scale estimates seconds in six-second steps. The highlighted matching tick guides the reading, while the center can show exact numeric time and seconds.
+
+Make it yours:
+• Six palettes: Night, Paper, Mint, Ice, Rose, and Monochrome.
+• Custom background, text, hour-scale, and minute-scale colors.
+• Watch default, 12-hour, or 24-hour time.
+• Optional seconds alignment scale.
+• Optional exact digital readout.
+• Optional date: YYYY-MM-DD, MM/DD/YYYY, or DD/MM/YYYY.
+
+Designed for Pebble Time 2 and Pebble Round 2. Settings are available through the Pebble app. Updates once per second, with no phone service needed for timekeeping.
+
+The animated preview is an accelerated time-lapse showing the rotating scales, seconds alignment, and six palette options. The installed face keeps the palette you choose.

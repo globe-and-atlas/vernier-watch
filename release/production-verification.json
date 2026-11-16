@@ -1,0 +1,9 @@
+{
+  "version": "0.1.0",
+  "uuid": "afe132c6-b8f9-46ff-8d5a-b37ee66679b7",
+  "targets": [
+    "emery",
+    "gabbro"
+  ],
+  "sha256": "64dbc07e75b60186858893b3be47d83e9ca460835ef4762388b99ec77f9e61e9"
+}

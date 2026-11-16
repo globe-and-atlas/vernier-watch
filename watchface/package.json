@@ -1,0 +1,42 @@
+{
+  "name": "vernier-watch",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Daniel Bally",
+  "keywords": [
+    "pebble-app"
+  ],
+  "pebble": {
+    "displayName": "Vernier",
+    "uuid": "afe132c6-b8f9-46ff-8d5a-b37ee66679b7",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "emery",
+      "gabbro"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "capabilities": [
+      "configurable"
+    ],
+    "messageKeys": [
+      "Palette",
+      "Background",
+      "TextColor",
+      "HourColor",
+      "MinuteColor",
+      "TimeFormat",
+      "DateFormat",
+      "Labels",
+      "DigitalTime"
+    ],
+    "resources": {
+      "media": []
+    }
+  },
+  "dependencies": {
+    "@rebble/clay": "1.1.0"
+  }
+}
